@@ -1,0 +1,53 @@
+
+p{
+    line-height: 2;
+    font-size: 17px;
+    
+}
+::-webkit-scrollbar{
+
+    width: 20px;
+   } 
+
+   
+
+
+
+
+
+
+
+h1{
+  
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, "Geneva Verdana", sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 30px;
+}
+td{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+}
+.muhammd{
+    text-align: center;
+    width: 500px;
+    height:1800Px;
+    background-color: #eee;
+    background-position: center center;
+    margin: 10px auto;
+    border-radius: 30px;
+}
+a{
+    background-color: blue;
+    width: fit-content;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20PX;
+}
+a:hover{
+    background-color: black;
+}
